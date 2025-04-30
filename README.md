@@ -35,4 +35,11 @@ HostelTrade is a full-stack MERN application designed for hostel students to pos
 ![Image](https://github.com/user-attachments/assets/84e225a5-6a45-4f2d-bb51-ebc4d6a65764)
 ![Image](https://github.com/user-attachments/assets/448cca35-0fd6-4688-9fd8-6f3ce195e799)
 
+### Home Page 
+![Image](https://github.com/user-attachments/assets/3d5bec54-dbf6-4a26-aa6c-2fd89b5ef57d)
+
+### Search
+![Image](https://github.com/user-attachments/assets/3dd75925-8a14-4f0d-8b8e-1244c06f173c)
+
+
 
